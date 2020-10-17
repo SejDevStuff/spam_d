@@ -1,5 +1,5 @@
 # Spam Detection
-> A python script that detect possible spam/scam techniques in messages.
+> Detect possible spam by cleaning strings and comparing them to two wordlists.
 
 To use:
 ```
