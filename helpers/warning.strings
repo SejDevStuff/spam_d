@@ -1,0 +1,8 @@
+# Warning Strings file: text that contain the strings here will flag a Warning
+# Comments (lines starting with a '# ') will be ignored.
+
+# Example Debug String:
+lorem
+Ipsum
+Lorem
+Ipsum dolor

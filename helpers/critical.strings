@@ -1,0 +1,8 @@
+# Critical Strings file: text that contain the strings here will flag a Critical Alert
+# Comments (lines starting with a '# ') will be ignored.
+
+# Example Debug String:
+lorem
+Ipsum
+Lorem
+Ipsum dolor
